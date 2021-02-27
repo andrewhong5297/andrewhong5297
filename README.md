@@ -1,6 +1,5 @@
 
 # Hey there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=andrewhong5297.andrewhong5297)
 
 <div size='20px'> Hi! My name is Andrew Hong. Thank You for taking the time to view my GitHub Profile :smile: 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"> </h2>

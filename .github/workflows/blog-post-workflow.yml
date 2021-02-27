@@ -12,4 +12,3 @@ steps:
 - uses: gautamkrishnar/blog-post-workflow@master
     with:
     feed_list: "https://medium.com/@andrew.hong"
-    

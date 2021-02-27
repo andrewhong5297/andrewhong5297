@@ -22,14 +22,15 @@
 <h2> About Me</h2>
 
 <h3> 🔭 I’m currently working on </h3>
-- Lucidity, an open-source Ethereum blockchain solution for project bidding and funds management. Currently working with UNICEF.
+* Lucidity, an open-source Ethereum blockchain solution for project bidding and funds management. Currently working with UNICEF.
 
 <h3> 🌱 I’m currently learning </h3>
-- Hierarchical time series analysis and forecasting
-- Neo4j graph data analysis and visualization
-- DevSecOps for Solidity Smart Contracts
+* Hierarchical time series analysis and forecasting
+* Neo4j graph data analysis and visualization
+* DevSecOps for Solidity Smart Contracts
 
-- 👯 I’m looking to collaborate on anything Ethereum or ESG Data focused
+<h3>  👯 I’m looking to collaborate on  </h3>
+* Anything Ethereum or ESG Data focused
 
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">

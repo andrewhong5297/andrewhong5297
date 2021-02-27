@@ -33,11 +33,10 @@
 - Anything Ethereum or ESG Data focused
 
 ## My GitHub Stats 📊 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewhong5297&count_private=true&show_icons=true&theme=radical" />
-</a>
-<br></br>
-<br></br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewhong5297&count_private=true&show_icons=true&theme=radical" />
+
+<div></div>
+
 ## My Blog Posts :books:
 
 <!-- BLOG-POST-LIST:START -->

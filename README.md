@@ -37,8 +37,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewhong5297&count_private=true&show_icons=true&theme=radical" />
 </a>
-<br></br>
 
+<br></br>
+## Most Recent Medium Posts
 <!-- BLOG-POST-LIST:START -->
 - [Three Easy Steps to Web Scrape and Visualize Hedge Fund Data from SEC 13F-HR Documents](https://levelup.gitconnected.com/three-easy-steps-to-web-scrape-and-visualize-hedge-fund-data-from-sec-13f-hr-documents-5f45df22b1e9?source=rss-ad1e6939064c------2)
 - [End-to-End MongoDB GraphQL Database, Chainlink External Adapter, and Oracle Contract on Ethereum](https://medium.com/coinmonks/end-to-end-mongodb-graphql-database-chainlink-external-adapter-and-oracle-contract-on-ethereum-2f2c5b8df6ce?source=rss-ad1e6939064c------2)
@@ -46,6 +47,3 @@
 - [Learning Coding From A Finance or Business Background Doesn’t Have To Be So Hard](https://towardsdatascience.com/learning-coding-from-a-finance-or-business-background-doesnt-have-to-be-so-hard-c0792496bd55?source=rss-ad1e6939064c------2)
 - [Six Lessons Learned as a Prize Winner from the ETHOnline 2020 Hackathon](https://medium.com/coinmonks/six-lessons-learned-as-a-prize-winner-from-the-ethonline-2020-hackathon-4c291ed49738?source=rss-ad1e6939064c------2)
 <!-- BLOG-POST-LIST:END -->
-
-<br></br>
-## Most Recent Medium Posts

@@ -26,13 +26,13 @@
 
 ### 🌱 I’m currently learning
 - Hierarchical time series analysis and forecasting
-<div>- Neo4j graph data analysis and visualization</div>
-<div>- DevSecOps for Solidity Smart Contracts</div>
+- Neo4j graph data analysis and visualization
+- DevSecOps for Solidity Smart Contracts
 
 ###  👯 I’m looking to collaborate on
 - Anything Ethereum or ESG Data focused
 
-## My Blog Posts :books:
+## Most Recent Medium Blog Posts :books:
 
 <!-- BLOG-POST-LIST:START -->
 - [Three Easy Steps to Web Scrape and Visualize Hedge Fund Data from SEC 13F-HR Documents](https://levelup.gitconnected.com/three-easy-steps-to-web-scrape-and-visualize-hedge-fund-data-from-sec-13f-hr-documents-5f45df22b1e9?source=rss-ad1e6939064c------2)

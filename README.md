@@ -10,6 +10,7 @@
 
 </div>
 
+<br></br>
 <h2> Skills </h2>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'>
@@ -17,6 +18,7 @@
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 
+<br></br>
 <h2> About Me</h2>
 
 - 🔭 I’m currently working on - Lucidity, an open-source Ethereum blockchain solution for project bidding and funds management. Currently working with UNICEF.
@@ -32,6 +34,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewhong5297&count_private=true&show_icons=true&theme=radical" />
 </a>
+<br></br>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewhong5297&layout=compact" />
 </a>

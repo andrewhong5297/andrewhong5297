@@ -7,11 +7,9 @@
 <a href = 'https://www.linkedin.com/in/andrew-hong-nyc'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://medium.com/@andrew.hong'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/andrewhong5297'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
 </div>
 
-<br></br>
-<h2> Skills </h2>
+## Skills 
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'>
@@ -19,18 +17,17 @@
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='22px' align='left' src ='https://miro.medium.com/max/4000/0*yqbRInqX0ZRUlVS0'>
 
-<br></br>
-<h2> About Me</h2>
+## About Me
 
-<h3> 🔭 I’m currently working on </h3>
+### 🔭 I’m currently working on 
 - <a href='https://github.com/LucidityDev/'>Lucidity</a>, an open-source Ethereum blockchain solution for project bidding and funds management. Currently working with UNICEF.
 
-<h3> 🌱 I’m currently learning </h3>
+### 🌱 I’m currently learning
 - Hierarchical time series analysis and forecasting
 <div>- Neo4j graph data analysis and visualization</div>
 <div>- DevSecOps for Solidity Smart Contracts</div>
 
-<h3>  👯 I’m looking to collaborate on  </h3>
+###  👯 I’m looking to collaborate on
 - Anything Ethereum or ESG Data focused
 
 ## My GitHub Stats 📊 

@@ -1,5 +1,5 @@
 
-# Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hey there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=andrewhong5297.andrewhong5297)
 
 <div size='20px'> Hi! My name is Andrew Hong. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -32,13 +32,6 @@
 ###  👯 I’m looking to collaborate on
 - Anything Ethereum or ESG Data focused
 
-## My GitHub Stats 📊 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewhong5297&count_private=true&show_icons=true&theme=radical" />
-
-<div></div>
-<div></div>
-<div></div>
-
 ## My Blog Posts :books:
 
 <!-- BLOG-POST-LIST:START -->
@@ -48,3 +41,7 @@
 - [Learning Coding From A Finance or Business Background Doesn’t Have To Be So Hard](https://towardsdatascience.com/learning-coding-from-a-finance-or-business-background-doesnt-have-to-be-so-hard-c0792496bd55?source=rss-ad1e6939064c------2)
 - [Six Lessons Learned as a Prize Winner from the ETHOnline 2020 Hackathon](https://medium.com/coinmonks/six-lessons-learned-as-a-prize-winner-from-the-ethonline-2020-hackathon-4c291ed49738?source=rss-ad1e6939064c------2)
 <!-- BLOG-POST-LIST:END -->
+
+## My GitHub Stats 📊 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewhong5297&count_private=true&show_icons=true&theme=radical" />
+

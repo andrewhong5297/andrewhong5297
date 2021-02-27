@@ -38,6 +38,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewhong5297&count_private=true&show_icons=true&theme=radical" />
 </a>
 
+<div>
 <br></br>
 ## Most Recent Medium Posts
 <!-- BLOG-POST-LIST:START -->
@@ -47,3 +48,4 @@
 - [Learning Coding From A Finance or Business Background Doesn’t Have To Be So Hard](https://towardsdatascience.com/learning-coding-from-a-finance-or-business-background-doesnt-have-to-be-so-hard-c0792496bd55?source=rss-ad1e6939064c------2)
 - [Six Lessons Learned as a Prize Winner from the ETHOnline 2020 Hackathon](https://medium.com/coinmonks/six-lessons-learned-as-a-prize-winner-from-the-ethonline-2020-hackathon-4c291ed49738?source=rss-ad1e6939064c------2)
 <!-- BLOG-POST-LIST:END -->
+</div>

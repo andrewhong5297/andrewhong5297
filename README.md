@@ -38,8 +38,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewhong5297&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-<br></br>
-<h2> Most Recent Medium Posts </h2>
+## My Blog Posts :books:
+
 <!-- BLOG-POST-LIST:START -->
 - [Three Easy Steps to Web Scrape and Visualize Hedge Fund Data from SEC 13F-HR Documents](https://levelup.gitconnected.com/three-easy-steps-to-web-scrape-and-visualize-hedge-fund-data-from-sec-13f-hr-documents-5f45df22b1e9?source=rss-ad1e6939064c------2)
 - [End-to-End MongoDB GraphQL Database, Chainlink External Adapter, and Oracle Contract on Ethereum](https://medium.com/coinmonks/end-to-end-mongodb-graphql-database-chainlink-external-adapter-and-oracle-contract-on-ethereum-2f2c5b8df6ce?source=rss-ad1e6939064c------2)

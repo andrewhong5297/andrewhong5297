@@ -17,7 +17,7 @@
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-<img width ='22px' align='left' src ='https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg'>
+<img width ='22px' align='left' src ='https://miro.medium.com/max/4000/0*yqbRInqX0ZRUlVS0'>
 
 <br></br>
 <h2> About Me</h2>

@@ -17,24 +17,21 @@
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
+<img width ='22px' align='left' serc='https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg'>
 
 <br></br>
 <h2> About Me</h2>
 
 <h3> 🔭 I’m currently working on </h3>
-* Lucidity, an open-source Ethereum blockchain solution for project bidding and funds management. Currently working with UNICEF.
-* Bullet list
-    * Nested bullet
-        * Sub-nested bullet etc
-* Bullet list item 2
+- Lucidity, an open-source Ethereum blockchain solution for project bidding and funds management. Currently working with UNICEF.
 
 <h3> 🌱 I’m currently learning </h3>
-* Hierarchical time series analysis and forecasting
-* Neo4j graph data analysis and visualization
-* DevSecOps for Solidity Smart Contracts
+- Hierarchical time series analysis and forecasting
+<div>- Neo4j graph data analysis and visualization</div>
+<div>- DevSecOps for Solidity Smart Contracts</div>
 
 <h3>  👯 I’m looking to collaborate on  </h3>
-* Anything Ethereum or ESG Data focused
+- Anything Ethereum or ESG Data focused
 
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">

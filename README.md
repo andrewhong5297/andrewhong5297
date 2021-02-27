@@ -33,9 +33,9 @@
 <h3>  👯 I’m looking to collaborate on  </h3>
 - Anything Ethereum or ESG Data focused
 
-<h2> My GitHub Stats 📊 </h2>
+## My GitHub Stats 📊 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewhong5297&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewhong5297&count_private=true&show_icons=true&theme=radical" />
 </a>
 
 ## My Blog Posts :books:

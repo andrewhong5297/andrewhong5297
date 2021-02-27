@@ -8,6 +8,7 @@
 <a href = 'https://medium.com/@andrew.hong'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/andrewhong5297'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </div>
+<br></br>
 
 ## Skills 
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
@@ -16,6 +17,7 @@
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='22px' align='left' src ='https://miro.medium.com/max/4000/0*yqbRInqX0ZRUlVS0'>
+<br></br>
 
 ## About Me
 
@@ -34,7 +36,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewhong5297&count_private=true&show_icons=true&theme=radical" />
 </a>
-
+<br></br>
+<br></br>
 ## My Blog Posts :books:
 
 <!-- BLOG-POST-LIST:START -->

@@ -23,6 +23,10 @@
 
 <h3> 🔭 I’m currently working on </h3>
 * Lucidity, an open-source Ethereum blockchain solution for project bidding and funds management. Currently working with UNICEF.
+* Bullet list
+    * Nested bullet
+        * Sub-nested bullet etc
+* Bullet list item 2
 
 <h3> 🌱 I’m currently learning </h3>
 * Hierarchical time series analysis and forecasting

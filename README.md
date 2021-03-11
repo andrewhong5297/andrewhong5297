@@ -21,7 +21,8 @@
 
 ### 🔭 I’m currently working on 
 - <a href='https://github.com/LucidityDev/'>Lucidity</a>, an open-source Ethereum blockchain solution for project bidding and funds management. Currently working with UNICEF.
-
+- some fun NLP chat thread analysis
+ 
 ### 🌱 I’m currently learning
 - Hierarchical time series analysis and forecasting
 - Neo4j graph data analysis and visualization

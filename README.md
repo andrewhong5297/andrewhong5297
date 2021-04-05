@@ -21,7 +21,7 @@
 
 ### 🔭 I’m currently working on 
 - <a href='https://github.com/LucidityDev/'>Lucidity</a>, an open-source Ethereum blockchain solution for project bidding and funds management. Currently working with UNICEF.
-- some fun NLP chat thread analysis
+- Spectral Finance (details to come! <a href='https://rarestone.capital/spectral-finance-credit-risk-oracle-for-pseudonymous-undercollateralized-lending-in-defi/'>intro article</a>
  
 ### 🌱 I’m currently learning
 - Hierarchical time series analysis and forecasting

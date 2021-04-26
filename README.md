@@ -34,11 +34,11 @@
 ## Most Recent Medium Blog Posts :books:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Network and Make Friends in Crypto](https://medium.com/coinmonks/how-to-network-and-make-friends-in-crypto-796e123e9584?source=rss-ad1e6939064c------2)
 - [Your guide to intermediate SQL while learning Ethereum at the same time](https://towardsdatascience.com/your-guide-to-intermediate-sql-while-learning-ethereum-at-the-same-time-7b25119ef1e2?source=rss-ad1e6939064c------2)
 - [High Quality World-scale Augmented Reality is Getting Closer — Partially because of Machine…](https://towardsdatascience.com/high-quality-world-scale-augmented-reality-is-getting-closer-partially-because-of-machine-975a68fa6fe5?source=rss-ad1e6939064c------2)
 - [Your guide to basic SQL while learning Ethereum at the same time](https://towardsdatascience.com/your-guide-to-basic-sql-while-learning-ethereum-at-the-same-time-9eac17a05929?source=rss-ad1e6939064c------2)
 - [Crypto and Web 3.0 Are the Future of Product and Work](https://medium.com/coinmonks/crypto-and-web-3-0-are-the-future-of-product-and-work-3d19e3733181?source=rss-ad1e6939064c------2)
-- [Three Easy Steps to Web Scrape and Visualize Hedge Fund Data from SEC 13F-HR Documents](https://levelup.gitconnected.com/three-easy-steps-to-web-scrape-and-visualize-hedge-fund-data-from-sec-13f-hr-documents-5f45df22b1e9?source=rss-ad1e6939064c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats 📊 

@@ -21,11 +21,10 @@
 
 ### 🔭 I’m currently working on 
 - <a href='https://github.com/LucidityDev/'>Lucidity</a>, an open-source Ethereum blockchain solution for project bidding and funds management. Currently working with UNICEF.
-- Spectral Finance (still in stealth <a href='https://rarestone.capital/spectral-finance-credit-risk-oracle-for-pseudonymous-undercollateralized-lending-in-defi/'>intro article</a>)
-- Diskover (still in stealth <a href='https://twitter.com/andrewhong5297/status/1387907870293962757'>intro thread</a>)
+- Spectral Finance (<a href='https://rarestone.capital/spectral-finance-credit-risk-oracle-for-pseudonymous-undercollateralized-lending-in-defi/'>intro article</a>)
  
 ### 🌱 I’m currently learning
-- Hierarchical time series analysis and forecasting
+- Digital Identity standards/data analysis
 - Neo4j graph data analysis and visualization
 - DevSecOps for Solidity Smart Contracts
 

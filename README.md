@@ -20,7 +20,7 @@
 ## About Me
 
 ### 🔭 I’m currently working on 
-- (redacted)
+- Data Science at Mirror.xyz
  
 ### 🌱 I’m currently learning
 - Digital Identity standards/data analysis

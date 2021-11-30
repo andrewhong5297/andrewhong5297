@@ -21,14 +21,12 @@
 
 ### 🔭 I’m currently working on 
 - Data Science at Mirror.xyz
+  - feel free to contribute to [my bounty board on Polygon](https://bountyboard.vercel.app/) with any web3 data asks you might have.
  
 ### 🌱 I’m currently learning
-- Digital Identity standards/data analysis
+- DAO token standards/data analysis
 - Neo4j graph data analysis and visualization
-- DevSecOps for Solidity Smart Contracts
-
-###  👯 I’m looking to collaborate on
-- Anything Ethereum or ESG Data focused
+- Bounty and Crowdfunding structures + token incentive mechanisms
 
 ## Most Recent Medium Blog Posts :books:
 

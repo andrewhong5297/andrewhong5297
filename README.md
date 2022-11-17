@@ -20,10 +20,4 @@
 ## About Me
 
 ### 🔭 I’m currently working on 
-- Data Science at Mirror.xyz
-  - feel free to contribute to [my bounty board on Polygon](https://bountyboard.vercel.app/) with any web3 data asks you might have.
- 
-### 🌱 I’m currently learning
-- DAO token standards/data analysis
-- Neo4j graph data analysis and visualization
-- Bounty and Crowdfunding structures + token incentive mechanisms
+- Headmaster @duneanalytics
